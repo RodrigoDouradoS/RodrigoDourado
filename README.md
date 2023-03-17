@@ -1,6 +1,10 @@
 # Olá, seja bem vindo. Eu sou o Rodrigo Dourado.
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoDouradoS&show_icons=true&theme=dark)
+<div>
+  <a href="https://github.com/RodrigoDouradoS">
+  <img height="180em"   src="https://github-readme-stats.vercel.app/api?username=RodrigoDouradoS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoDouradoS&&layout=compact&hide=shell&theme=dark"/>
+<div  align="center">
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
